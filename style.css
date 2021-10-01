@@ -1,0 +1,196 @@
+body {
+	margin: 0;
+	font-family: arial, sans-serif;
+}
+.container {
+	background-color: #d3d3d3;
+	width: 100%;
+	height: auto;
+	margin-top: 50px;
+}
+.foto img {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	border: 5px solid gray;
+}
+.foto {
+	margin: 0 45%;
+	padding-top: 30px;
+}
+.container h1 {
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10px;
+}
+.container p {
+	text-align: center;
+	font-size: 30px;
+	padding-bottom: 25px;
+	line-height: 10px;
+}
+.about {
+	text-align: center;
+	width: 70%;
+	height: auto;
+	margin: auto;
+}
+.text1 {
+	text-align: left;
+	float: left;
+	width: 50%;
+	font-size: 20px;
+}
+.text2 {
+	text-align: left;
+	width: 50%;
+	font-size: 20px;
+	float: right;
+}
+hr {
+	width: 15%;
+	border: 1px solid black;
+	margin-top: -15px;
+}
+.clear {
+	clear: both;
+}
+li img {
+	width: 200px;
+	height: 200px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	float: left;
+	margin-left: 95px;
+}
+li {
+	list-style: none;
+}
+.contac h1 {
+	text-align: center;
+	font-weight: bold;
+}
+.contac form input {
+	border: none;
+	border-bottom: 3px solid black;
+	margin-left: 32%;
+	width: 50%;
+	height: 20px;
+	margin-top: 45px;
+	transform: translate(-50px, -50px)
+}
+.contac form label {
+	display: block;
+	margin-left: 25%;
+	font-weight: bold;
+	font-size: 20px;
+	text-transform: capitalize;
+}
+.contac {
+	width: 50%;
+	height: auto;
+	margin: auto;
+	margin-top: -20px;
+}
+.contac textarea {
+	width: 50%;
+	height: 200px;
+	margin-left: 25%;
+	border: none;
+	border: 3px solid black;
+	font-size: 20px;
+}
+.contac button {
+	margin-left: 25%;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	border: 2px solid black;
+	margin-bottom: 30px;
+	margin-top: 15px;
+	cursor: pointer;
+	border-radius: 50px;
+}
+.contac button:hover {
+	background-color: rgba(169, 169, 169, 1);
+	animation: buttons 1s ease forwards;
+}
+@keyframes buttons {
+	0% {
+		background-color: white;
+	}
+	100% {
+		rgba{169, 169, 169, 0.5}
+	}
+}
+.copyright {
+	background-color: black;
+	color: white;
+	text-align: center;
+	height: 35px;
+	line-height: 35px;
+	text-transform: capitalize;
+}
+.thub {
+	background-color: #bebdb8;
+	width: 100%;
+	height: 8%;
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+}
+.thub h1 {
+	font-size: 25px;
+	padding-left: 15px;
+	text-align: right;
+	padding-right: 15px;
+	line-height: 15px;
+}
+.thumb1 {
+	margin-left: 15px;
+	position: absolute;
+	top: 13px;
+}
+.thumb1 a {
+	text-decoration: none;
+	color: black;
+	font-size: 25px;
+}
+.thumb1 hr {
+	width: 30px;
+	transform: rotate(90deg);
+	margin-left: 66px;
+}
+.thumb2 {
+	margin-left: 15px;
+	position: absolute;
+	top: 13px;
+	left: 220px;
+}
+.thumb2 a {
+	text-decoration: none;
+	color: black;
+	font-size: 25px;
+}
+.thumb2 hr {
+	width: 30px;
+	transform: rotate(90deg);
+	margin-left: 67px;
+}
+.thumb3 {
+	margin-left: 15px;
+	position: absolute;
+	top: 13px;
+	left: 100px;
+}
+.thumb3 a {
+	text-decoration: none;
+	color: black;
+	font-size: 25px;
+}
+.thumb3 hr {
+	width: 30px;
+	transform: rotate(90deg);
+	margin-left: 78px;
+}
