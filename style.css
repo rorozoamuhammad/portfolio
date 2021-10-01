@@ -99,6 +99,7 @@ li {
 	border: none;
 	border: 3px solid black;
 	font-size: 20px;
+	border-radius: 25px;
 }
 .contac button {
 	margin-left: 25%;
