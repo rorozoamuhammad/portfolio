@@ -134,7 +134,7 @@ li {
 .thub {
 	background-color: #bebdb8;
 	width: 100%;
-	height: auto;
+	height: 50px;
 	position: fixed;
 	top: 0;
 	right: 0;
