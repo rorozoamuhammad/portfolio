@@ -6,7 +6,7 @@ body {
 	background-color: #d3d3d3;
 	width: 100%;
 	height: auto;
-	margin-top: 50px;
+	margin-top: 35px;
 }
 .foto img {
 	width: 120px;
@@ -134,14 +134,14 @@ li {
 .thub {
 	background-color: #bebdb8;
 	width: 100%;
-	height: 50px;
+	height: 35px;
 	position: fixed;
 	top: 0;
 	right: 0;
 	left: 0;
 }
 .thub h1 {
-	font-size: 25px;
+	font-size: 20px;
 	padding-left: 15px;
 	text-align: right;
 	padding-right: 15px;
@@ -150,47 +150,47 @@ li {
 .thumb1 {
 	margin-left: 15px;
 	position: absolute;
-	top: 13px;
+	top: 10px;
 }
 .thumb1 a {
 	text-decoration: none;
 	color: black;
-	font-size: 25px;
+	font-size: 20px;
 }
 .thumb1 hr {
-	width: 30px;
+	width: 25px;
 	transform: rotate(90deg);
 	margin-left: 66px;
 }
 .thumb2 {
 	margin-left: 15px;
 	position: absolute;
-	top: 13px;
+	top: 10px;
 	left: 220px;
 }
 .thumb2 a {
 	text-decoration: none;
 	color: black;
-	font-size: 25px;
+	font-size: 20px;
 }
 .thumb2 hr {
-	width: 30px;
+	width: 25px;
 	transform: rotate(90deg);
 	margin-left: 67px;
 }
 .thumb3 {
 	margin-left: 15px;
 	position: absolute;
-	top: 13px;
+	top: 10px;
 	left: 100px;
 }
 .thumb3 a {
 	text-decoration: none;
 	color: black;
-	font-size: 25px;
+	font-size: 20px;
 }
 .thumb3 hr {
-	width: 30px;
+	width: 25px;
 	transform: rotate(90deg);
 	margin-left: 78px;
 }
