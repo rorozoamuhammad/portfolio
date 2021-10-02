@@ -74,7 +74,7 @@ li {
 .contac form input {
 	border: none;
 	border-bottom: 3px solid black;
-	margin-left: 32%;
+	margin-left: 30%;
 	width: 50%;
 	height: 20px;
 	margin-top: 45px;
@@ -85,7 +85,7 @@ li {
 }
 .contac form label {
 	display: block;
-	margin-left: 25%;
+	margin-left: 22%;
 	font-weight: bold;
 	font-size: 20px;
 	text-transform: capitalize;
@@ -105,7 +105,7 @@ li {
 .contac textarea {
 	width: 50%;
 	height: 200px;
-	margin-left: 25%;
+	margin-left: 22%;
 	border: none;
 	border: 3px solid black;
 	font-size: 20px;
@@ -126,7 +126,7 @@ li {
 .contac  p {
 	font-size: 20px;
 	display: block;
-	margin-left: 25%;
+	margin-left: 22%;
 	font-weight: bold;
 
 }
