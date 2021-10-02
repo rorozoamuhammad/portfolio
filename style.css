@@ -61,7 +61,8 @@ li img {
 	margin-top: 50px;
 	margin-bottom: 50px;
 	float: left;
-	margin-left: 95px;
+	margin-left: 65px;
+	margin-right: 40px;
 }
 li {
 	list-style: none;
@@ -73,11 +74,14 @@ li {
 .contac form input {
 	border: none;
 	border-bottom: 3px solid black;
-	margin-left: 32%;
+	margin-left: 219px;
 	width: 50%;
 	height: 20px;
 	margin-top: 45px;
-	transform: translate(-50px, -50px)
+	transform: translate(-50px, -50px);
+	background-color: #ced6d0;
+	color: black;
+	font-weight: bold;
 }
 .contac form label {
 	display: block;
@@ -85,12 +89,18 @@ li {
 	font-weight: bold;
 	font-size: 20px;
 	text-transform: capitalize;
+	color: black;
+	font-weight: bold;
 }
 .contac {
 	width: 50%;
 	height: auto;
 	margin: auto;
-	margin-top: -20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #ced6d0;
+	border-radius: 25px;
+	padding: 10px;
 }
 .contac textarea {
 	width: 50%;
@@ -100,6 +110,7 @@ li {
 	border: 3px solid black;
 	font-size: 20px;
 	border-radius: 25px;
+	padding-left: 10px;
 }
 .contac button {
 	margin-left: 25%;
@@ -112,6 +123,13 @@ li {
 	cursor: pointer;
 	border-radius: 50px;
 }
+.contac  p {
+	font-size: 20px;
+	display: block;
+	margin-left: 170px;
+	font-weight: bold;
+
+}
 .contac button:hover {
 	background-color: rgba(169, 169, 169, 1);
 	animation: buttons 1s ease forwards;
@@ -121,7 +139,7 @@ li {
 		background-color: white;
 	}
 	100% {
-		rgba{169, 169, 169, 0.5}
+		rgbab{169, 169, 169, 0.5}
 	}
 }
 .copyright {
@@ -161,7 +179,7 @@ li {
 .thumb1 hr {
 	width: 25px;
 	transform: rotate(90deg);
-	margin-left: 66px;
+	margin-left: 60px;
 }
 .thumb2 {
 	margin-left: 15px;
