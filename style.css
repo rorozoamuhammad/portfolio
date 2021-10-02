@@ -61,8 +61,8 @@ li img {
 	margin-top: 50px;
 	margin-bottom: 50px;
 	float: left;
-	margin-left: 65px;
-	margin-right: 40px;
+	margin-left: 5%;
+	margin-right: 3%;
 }
 li {
 	list-style: none;
@@ -74,7 +74,7 @@ li {
 .contac form input {
 	border: none;
 	border-bottom: 3px solid black;
-	margin-left: 219px;
+	margin-left: 32%;
 	width: 50%;
 	height: 20px;
 	margin-top: 45px;
@@ -126,7 +126,7 @@ li {
 .contac  p {
 	font-size: 20px;
 	display: block;
-	margin-left: 170px;
+	margin-left: 25%;
 	font-weight: bold;
 
 }
