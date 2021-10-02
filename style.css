@@ -84,6 +84,9 @@ li {
 	font-weight: bold;
 	font-size: 20px;
 }
+.contac hr {
+	width: 25%;
+}
 .contac form label {
 	display: block;
 	margin-left: 22%;
